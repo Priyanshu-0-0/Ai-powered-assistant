@@ -9,7 +9,7 @@ import subprocess
 import wolframalpha
 import requests
 
-
+#printing loading messeage
 print('Loading your assistant -KILLJOY ')
 
 engine=pyttsx3.init('sapi5')
